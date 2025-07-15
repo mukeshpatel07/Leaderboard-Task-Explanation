@@ -39,11 +39,10 @@ This is a **full-stack application** that allows users to:
 
 ## 🌐 **Live Demo**
 
-- **Frontend (Netlify/Vercel URL):** [View here](https://leaderboard-task-explanation.netlify.app)
-- **Backend (Render/Railway URL):** [View here](https://your-backend-url.onrender.com)
-- **MongoDB Atlas:** [Cluster Link](https://cloud.mongodb.com) *(private, for admins only)*
+ Frontend (Netlify/Vercel URL):** [View here](https://leaderboard-task-explanation.netlify.app)
 
----
+
+
 
 ## 📂 **Project Structure**
 
@@ -75,7 +74,7 @@ backend/
 
 1. **Clone the repository**
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/mukeshpatel07/repo-name.git
 cd repo-name
 
 Frontend
